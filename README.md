@@ -21,7 +21,7 @@ Para rodar os exemplos, certifique-se de ter o Go instalado em sua máquina. Voc
 
 2. Acesse o diretório do projeto:
    ```bash
-  cd golang-basics
+    cd golang-basics
 
 3. Execute o arquivo desejado:
    ```bash
